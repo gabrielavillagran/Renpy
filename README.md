@@ -1,6 +1,7 @@
 # Renpy
 
-Primeiros passos com o renpy para a realização de visual novel, esses jogos digitais podem ter um papel importante para a educação e possibilita a criação de diversas metodologias para ensino.
+Primeiros passos com o renpy para a realização de visual novel, esses jogos digitais podem ter um papel importante para a educação e possibilita a criação de diversas metodologias para ensino. Nas histórias interativas o jogador influência do enredo, sendo esta história composta por cenas que podem ou não acontecer, dependendo das escolhas feitas pelo protagonista(jogador).
+Os scripts do Ren'Py tem um roteiro, e podem incluir blocos de código em Python permitindo ao usuário adicionar novos recursos próprios; o Renpy é construido em Python e é suportada em  Windows, versões recentes do Mac OS X, Linux Ubuntu, Debian
 
 https://drive.google.com/file/d/1CuG5OQTzDriL-oJIL9v-UxdauykHm4M8/view?usp=sharing
 
