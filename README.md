@@ -10,4 +10,4 @@ https://drive.google.com/file/d/1CuG5OQTzDriL-oJIL9v-UxdauykHm4M8/view?usp=shari
 ![image](https://user-images.githubusercontent.com/92838700/190668074-cae38d96-53d0-49da-92aa-ad501853b747.png)
 ![image](https://user-images.githubusercontent.com/92838700/190668167-ecad4f31-2a0e-4cf7-a543-98e658d319bb.png)
 ![image](https://user-images.githubusercontent.com/92838700/190668240-de63a382-22c6-400f-b7af-7b670fed5ac8.png)
-![image](https://user-images.githubusercontent.com/92838700/190668491-736969d2-900e-4e93-96b6-69fae2d1c357.png)
+![image](https://user-images.githubusercontent.com/92838700/190701516-1cb4ba63-d153-48c2-8a44-f07ad8fcba88.png)
