@@ -6,7 +6,7 @@ Os scripts do Ren'Py tem um roteiro, e podem incluir blocos de código em Python
 https://drive.google.com/file/d/1CuG5OQTzDriL-oJIL9v-UxdauykHm4M8/view?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/92838700/190667968-f8f46976-41da-4483-a254-71f3c12b432a.png)
-![image](https://user-images.githubusercontent.com/92838700/190671172-f5bba50f-9d22-4946-b0c9-c11caf564996.png)
+![image](https://user-images.githubusercontent.com/92838700/190671307-2421176a-8eb9-45d0-941f-95ac980cc1fd.png)
 ![image](https://user-images.githubusercontent.com/92838700/190668074-cae38d96-53d0-49da-92aa-ad501853b747.png)
 ![image](https://user-images.githubusercontent.com/92838700/190668167-ecad4f31-2a0e-4cf7-a543-98e658d319bb.png)
 ![image](https://user-images.githubusercontent.com/92838700/190668240-de63a382-22c6-400f-b7af-7b670fed5ac8.png)
