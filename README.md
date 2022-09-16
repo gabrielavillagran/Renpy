@@ -1,6 +1,6 @@
 # Renpy
 
-Primeiros passos com o renpy para a realização de visual novel
+Primeiros passos com o renpy para a realização de visual novel, esses jogos digitais podem ter um papel importante para a educação e possibilita a criação de diversas metodologias para ensino.
 
 https://drive.google.com/file/d/1CuG5OQTzDriL-oJIL9v-UxdauykHm4M8/view?usp=sharing
 
